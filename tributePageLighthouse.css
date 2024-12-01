@@ -1,11 +1,11 @@
 html {
-  font-family: 'Arial', sans-serif;
-  font-size: 100%;
-  color: #333333;
   box-sizing: border-box;
 }
 
 body {
+  font-family: 'Arial', sans-serif;
+  font-size: 100%;
+  color: #333333;
   margin: 0;
   padding: 30px 20px;
   background-color: rgb(197, 197, 197);
@@ -54,10 +54,6 @@ img {
   max-width: 100%;
   height: auto;
   margin: 0 auto;
-}
-
-figcaption {
-  display: block;
 }
 
 #img-caption {
